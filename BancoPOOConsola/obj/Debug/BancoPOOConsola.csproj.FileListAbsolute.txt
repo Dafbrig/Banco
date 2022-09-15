@@ -1,0 +1,41 @@
+c:\users\gabrieltaborda\documents\visual studio 2015\Projects\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe.config
+c:\users\gabrieltaborda\documents\visual studio 2015\Projects\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe
+c:\users\gabrieltaborda\documents\visual studio 2015\Projects\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.pdb
+c:\users\gabrieltaborda\documents\visual studio 2015\Projects\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csprojResolveAssemblyReference.cache
+c:\users\gabrieltaborda\documents\visual studio 2015\Projects\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.exe
+c:\users\gabrieltaborda\documents\visual studio 2015\Projects\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.pdb
+H:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe.config
+H:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe
+H:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.pdb
+H:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csproj.CoreCompileInputs.cache
+H:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.exe
+H:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.pdb
+H:\Personales\2018_01\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe.config
+H:\Personales\2018_01\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe
+H:\Personales\2018_01\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.pdb
+H:\Personales\2018_01\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csprojAssemblyReference.cache
+H:\Personales\2018_01\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csproj.CoreCompileInputs.cache
+H:\Personales\2018_01\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.exe
+H:\Personales\2018_01\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.pdb
+E:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe.config
+E:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe
+E:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.pdb
+E:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csprojAssemblyReference.cache
+E:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csproj.CoreCompileInputs.cache
+E:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.exe
+E:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.pdb
+H:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csprojAssemblyReference.cache
+I:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe.config
+I:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe
+I:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.pdb
+I:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csprojAssemblyReference.cache
+I:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csproj.CoreCompileInputs.cache
+I:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.exe
+I:\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.pdb
+I:\Personales\2019-02\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csprojAssemblyReference.cache
+I:\Personales\2019-02\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.csproj.CoreCompileInputs.cache
+I:\Personales\2019-02\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.exe
+I:\Personales\2019-02\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\obj\Debug\BancoPOOConsola.pdb
+I:\Personales\2019-02\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe.config
+I:\Personales\2019-02\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.exe
+I:\Personales\2019-02\ITM\Dllo\BancoPOOConsola\BancoPOOConsola\bin\Debug\BancoPOOConsola.pdb
